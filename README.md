@@ -11,7 +11,9 @@
 **ANALIZY:**
 * **Lematyzacja:** [Morfologik](http://morfologik.blogspot.com/)
 * **Analiza wydźwięku:** ["Słownik sentymentu" dla języka polskiego](https://exp.lobi.nencki.gov.pl/nawl-analysis)
-* **Topic modeling:** LDA Mallet Model
+* **Topic modeling:** LDA Mallet Model, Topic Coherence
+  
+Analizy i wizualizacje zostały wykonane w Pythonie.
 
 #
 ![s1](./output/s1.png)
