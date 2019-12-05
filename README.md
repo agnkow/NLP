@@ -13,7 +13,7 @@
 * **Analiza wydźwięku:** ["Słownik sentymentu" dla języka polskiego](https://exp.lobi.nencki.gov.pl/nawl-analysis)
 * **Topic modeling:** LDA Mallet Model
 
-
+#
 ![s1](./output/s1.png)
 ![s2](./output/s2.png)
 ![s3](./output/s3.png)
